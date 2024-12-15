@@ -1097,10 +1097,16 @@ footer .widget_a img{
 
 
 @media (max-width: 767px) {
-    .pricing_header h1
+    .pricing_header,
+    .services_header{
+        margin-top: 20px !important;
+    }
+    
+
+    .pricing_header h1,
     .services_header h1{
-        font-size: 2rem;
-        margin-bottom: 40px;
+        font-size: 3.5rem !important;
+        margin-bottom: 20px;
     }
     
     .pricing_header p,
