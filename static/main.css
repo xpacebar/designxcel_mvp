@@ -952,7 +952,7 @@ footer .widget_a img{
     margin-bottom: 40px;
 }
 
-
+.pricing_header p,
 .services_header p{
     color:#8B949E;
     font-size: 1.2rem;
@@ -1191,12 +1191,6 @@ footer .widget_a img{
 
 
 /* Pricing Page styling */
-
-.pricing_header p{
-    color:#E3E3E3;
-    font-size: 1.4rem;
-    font-weight: 400;
-}
 
 .pricing_body .row{
     display :flex;
